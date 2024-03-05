@@ -1,3 +1,9 @@
+# gostcoin-wallet-android
+
+## Project status: Work in progress
+
+# ALL INFO BELOW IS OBSOLETE, TO BE EDITED
+
 Welcome to _Dash Wallet_, a standalone Dash payment app for your Android device!
 
 This project contains several sub-projects:
